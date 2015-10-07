@@ -11,6 +11,7 @@ namespace MVCTest2.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            @ViewBag.Title = "Home";
             return View();
         }
     }
