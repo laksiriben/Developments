@@ -14,5 +14,10 @@ namespace MVCTest2.Controllers
             @ViewBag.Title = "Home";
             return View();
         }
+
+        public ActionResult About()
+        {
+            return View();
+        }
     }
 }

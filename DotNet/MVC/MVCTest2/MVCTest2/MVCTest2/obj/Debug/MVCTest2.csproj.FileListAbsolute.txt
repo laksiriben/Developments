@@ -16,3 +16,7 @@ C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\bin\System.W
 C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\obj\Debug\MVCTest2.csprojResolveAssemblyReference.cache
 C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\obj\Debug\MVCTest2.dll
 C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\obj\Debug\MVCTest2.pdb
+C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\bin\EntityFramework.dll
+C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\bin\EntityFramework.SqlServer.dll
+C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\bin\EntityFramework.xml
+C:\MyWork\My\Git\Developments\DotNet\MVC\MVCTest2\MVCTest2\MVCTest2\bin\EntityFramework.SqlServer.xml
